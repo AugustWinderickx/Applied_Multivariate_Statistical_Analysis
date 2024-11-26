@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
     "editor.fontFamily": "\"JetBrains Mono\", Consolas, \"Courier New\", monospace",
     "editor.fontSize": 16
+=======
+    "editor.fontFamily": "\"JetBrains Mono\", Consolas, \"Courier New\", monospace"
+>>>>>>> fec95adb6a170c302ce4228cb8998bcf1c47ceac
 }
